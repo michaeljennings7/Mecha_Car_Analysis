@@ -12,4 +12,4 @@ Below is the output of the MPG file linear regression:
 
 * The slope is most like not zero because the null-hypothesis can be rejected. Meaning, the p-value is much smaller than 0.005
 
-* 
+* This model can predict the mpg of a MechaCar fairly well with a R-Squared value of around 71%. The prediction could be better but genreally that is enough to say that a model generally can predict accurately. 
